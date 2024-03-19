@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.419ea00d7e17be6fe615257f709cee2b.js"
+  "/precache-manifest.8254e81adcaf1aaa78a4e9f5c5a59751.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "olaolu.dev"});
