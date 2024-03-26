@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8254e81adcaf1aaa78a4e9f5c5a59751.js"
+  "/precache-manifest.faa209e96b2128047f2f7331452fc624.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "olaolu.dev"});
+workbox.core.setCacheNameDetails({prefix: "hashpoy.github.io"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
