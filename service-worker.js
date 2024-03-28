@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.faa209e96b2128047f2f7331452fc624.js"
+  "/precache-manifest.3527b7608cf1982ea607cf9b25648328.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "hashpoy.github.io"});

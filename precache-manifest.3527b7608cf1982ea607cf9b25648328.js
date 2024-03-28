@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c903d53916bcdfae9a13",
-    "url": "/css/app.af4e2450.css"
+    "revision": "835ae1efc7c630b5069f",
+    "url": "/css/app.828a7380.css"
   },
   {
-    "revision": "c903d53916bcdfae9a13",
-    "url": "/js/app.de7dfc33.js"
+    "revision": "835ae1efc7c630b5069f",
+    "url": "/js/app.bdd0de30.js"
   },
   {
     "revision": "c07c431ebc232c76f9b0",
@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/js/chunk-vendors.56b54615.js"
   },
   {
-    "revision": "e3517f9845b7aafca4d3a4f41b51c4ca",
+    "revision": "cd39c239fa14465c1a87d4ad951cad92",
     "url": "/index.html"
   },
   {
-    "revision": "e166363f0331eb5e76e0a9c6ee9cf118",
-    "url": "/app.enhancv.json"
+    "revision": "dcf70311333833bd34f350118ef3f644",
+    "url": "/fonts/SF-UI-Text-Light.woff"
   },
   {
     "revision": "a0551c66f62ad6916a46b1169d7474df",
@@ -36,10 +36,6 @@ self.__precacheManifest = [
     "url": "/fonts/SF-UI-Text-Bold.woff"
   },
   {
-    "revision": "dcf70311333833bd34f350118ef3f644",
-    "url": "/fonts/SF-UI-Text-Light.woff"
-  },
-  {
     "revision": "b01b6cbac3b12706f3cdd3bc3d5f9e06",
     "url": "/fonts/SF-UI-Text-RegularItalic.woff"
   },
@@ -48,15 +44,11 @@ self.__precacheManifest = [
     "url": "/img/handsome.png"
   },
   {
-    "revision": "3fd4b8961303e505ae33b70658639ef2",
+    "revision": "6a10a3c2940bfe48cbe48d90e95b2e11",
     "url": "/Resume-Hash-Poy.pdf"
   },
   {
     "revision": "b6216d61c03e6ce0c9aea6ca7808f7ca",
     "url": "/robots.txt"
-  },
-  {
-    "revision": "5f9aff87dcb057463d731809c31dcc21",
-    "url": "/Resume-Olaolu-Olawuyi.pdf"
   }
 ];
